@@ -1,0 +1,1654 @@
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (buy.controller.js:46:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (buy.controller.js:46:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (buy.controller.js:46:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (buy.controller.js:46:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (buy.controller.js:46:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (buy.controller.js:46:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (buy.controller.js:46:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:47:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:47:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+undefined
+
+undefined
+
+undefined
+
+undefined
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:47:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+ReferenceError: err is not defined
+    at exports.getLists (accomo.controller.js:51:10)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+ReferenceError: err is not defined
+    at exports.getLists (accomo.controller.js:51:10)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+ReferenceError: err is not defined
+    at exports.getLists (accomo.controller.js:51:10)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+ReferenceError: err is not defined
+    at exports.getLists (accomo.controller.js:51:10)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:48:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:48:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:48:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:47:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:47:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:47:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:47:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:47:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:47:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:47:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:47:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:47:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:47:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:47:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at exports.getLists (accomo.controller.js:47:22)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: ENOENT: no such file or directory, open 'C:\Users\jack\Desktop\rmiters\publasdic\uploads\accomodation\birds1_1456140820123.png'
+    at Error (native)
+
+ReferenceError: emdail is not defined
+    at exports.signin (users.controller.js:174:25)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+ReferenceError: emdail is not defined
+    at exports.signin (users.controller.js:174:25)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+ReferenceError: err is not defined
+    at exports.postNewAd (buy.controller.js:155:5)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+ReferenceError: err is not defined
+    at exports.postNewAd (buy.controller.js:155:5)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+ReferenceError: exec is not defined
+    at exports.replyComment (comment.controller.js:28:16)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+ReferenceError: exec is not defined
+    at exports.replyComment (comment.controller.js:28:16)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+ReferenceError: exec is not defined
+    at exports.replyComment (comment.controller.js:30:16)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+ReferenceError: exec is not defined
+    at exports.replyComment (comment.controller.js:28:16)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: key $conditionalHandlers must not start with '$'
+    at Error (native)
+    at serializeInto (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:680:19)
+    at serializeObject (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:280:18)
+    at serializeInto (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:705:17)
+    at serializeObject (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:280:18)
+    at serializeInto (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:705:17)
+    at serializeObject (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:280:18)
+    at serializeInto (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:551:17)
+    at serializeObject (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:280:18)
+    at serializeInto (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:705:17)
+    at serializeObject (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:280:18)
+    at serializeInto (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:551:17)
+    at serializeObject (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:280:18)
+    at serializeInto (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:705:17)
+    at [object Object].serialize (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\bson.js:47:27)
+    at [object Object].Query.toBin (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\lib\connection\commands.js:143:25)
+    at executeSingleOperation (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\server.js:765:28)
+    at [object Object].Server.command (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\server.js:847:12)
+    at executeWrite (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\lib\wireprotocol\2_6_support.js:52:12)
+    at [object Object].WireProtocol.insert (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\lib\wireprotocol\2_6_support.js:60:3)
+    at [object Object].Server.insert (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\server.js:967:37)
+    at [object Object].Server.insert (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\lib\server.js:325:17)
+
+Error: key $conditionalHandlers must not start with '$'
+    at Error (native)
+    at serializeInto (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:680:19)
+    at serializeObject (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:280:18)
+    at serializeInto (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:705:17)
+    at serializeObject (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:280:18)
+    at serializeInto (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:705:17)
+    at serializeObject (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:280:18)
+    at serializeInto (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:551:17)
+    at serializeObject (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:280:18)
+    at serializeInto (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:705:17)
+    at serializeObject (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:280:18)
+    at serializeInto (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:551:17)
+    at serializeObject (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:280:18)
+    at serializeInto (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js:705:17)
+    at [object Object].serialize (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\bson.js:47:27)
+    at [object Object].Query.toBin (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\lib\connection\commands.js:143:25)
+    at executeSingleOperation (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\server.js:765:28)
+    at [object Object].Server.command (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\server.js:847:12)
+    at executeWrite (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\lib\wireprotocol\2_6_support.js:52:12)
+    at [object Object].WireProtocol.insert (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\lib\wireprotocol\2_6_support.js:60:3)
+    at [object Object].Server.insert (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\server.js:967:37)
+    at [object Object].Server.insert (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\mongodb\lib\server.js:325:17)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+CastError: Cast to number failed for value "NaN" at path "view_count"
+    at MongooseError.CastError (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\error\cast.js:19:11)
+    at SchemaNumber.cast (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:222:9)
+    at SchemaNumber.castForQuery (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\schema\number.js:272:16)
+    at Query._castUpdateVal (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2436:17)
+    at Query._walkUpdatePath (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2383:25)
+    at Query._castUpdate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2256:23)
+    at Query.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\query.js:2066:22)
+    at Function.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\model.js:1894:13)
+    at model.update (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\document.js:408:34)
+    at Query.<anonymous> (item.controller.js:92:11)
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:177:19
+    at C:\Users\jack\Desktop\rmiters\node_modules\mongoose\node_modules\kareem\index.js:109:16
+    at doNTCallback0 (node.js:408:9)
+    at process._tickCallback (node.js:337:13)
+
+Error: Plugin was not installed
+    at Query.deepPopulate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose-deep-populate\lib\plugin.js:29:13)
+    at exports.getComments (comment.controller.js:114:44)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: Plugin was not installed
+    at Query.deepPopulate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose-deep-populate\lib\plugin.js:29:13)
+    at exports.getComments (comment.controller.js:114:44)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: Plugin was not installed
+    at Query.deepPopulate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose-deep-populate\lib\plugin.js:29:13)
+    at exports.getComments (comment.controller.js:114:44)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: Plugin was not installed
+    at Query.deepPopulate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose-deep-populate\lib\plugin.js:29:13)
+    at exports.getComments (comment.controller.js:115:44)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: Plugin was not installed
+    at Query.deepPopulate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose-deep-populate\lib\plugin.js:29:13)
+    at exports.getComments (comment.controller.js:115:44)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: Plugin was not installed
+    at Query.deepPopulate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose-deep-populate\lib\plugin.js:29:13)
+    at exports.getComments (comment.controller.js:115:44)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: Plugin was not installed
+    at Query.deepPopulate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose-deep-populate\lib\plugin.js:29:13)
+    at exports.getComments (comment.controller.js:115:44)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: Plugin was not installed
+    at Query.deepPopulate (C:\Users\jack\Desktop\rmiters\node_modules\mongoose-deep-populate\lib\plugin.js:29:13)
+    at exports.getComments (comment.controller.js:115:44)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.deepPopulate is not a function
+    at exports.getComments (comment.controller.js:115:13)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.find(...).deepPoulate is not a function
+    at exports.getComments (comment.controller.js:113:44)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.find(...).deepPoulate is not a function
+    at exports.getComments (comment.controller.js:113:44)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.find(...).deepPoulate is not a function
+    at exports.getComments (comment.controller.js:113:44)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.find(...).deepPoulate is not a function
+    at exports.getComments (comment.controller.js:113:44)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.find(...).deepPoulate is not a function
+    at exports.getComments (comment.controller.js:113:44)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.find(...).poulate is not a function
+    at exports.getComments (comment.controller.js:113:44)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.find(...).poulate is not a function
+    at exports.getComments (comment.controller.js:113:44)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: ENOENT: no such file or directory, stat 'C:\Users\jack\Desktop\rmiters\public\uploads\profile\house_1456626112228.png'
+    at Error (native)
+
+Error: ENOENT: no such file or directory, stat 'C:\Users\jack\Desktop\rmiters\public\uploads\profile\birds1_1456626472054.png'
+    at Error (native)
+
+Error: ENOENT: no such file or directory, stat 'C:\Users\jack\Desktop\rmiters\public\uploads\profile\undefined'
+    at Error (native)
+
+Error: ENOENT: no such file or directory, stat 'C:\Users\jack\Desktop\rmiters\public\uploads\profile\undefined'
+    at Error (native)
+
+Error: ENOENT: no such file or directory, stat 'C:\Users\jack\Desktop\rmiters\public\uploads\profile\undefined'
+    at Error (native)
+
+Error: ENOENT: no such file or directory, stat 'C:\Users\jack\Desktop\rmiters\public\uploads\profile\undefined'
+    at Error (native)
+
+Error: ENOENT: no such file or directory, stat 'C:\Users\jack\Desktop\rmiters\public\uploads\profile\undefined'
+    at Error (native)
+
+TypeError: Comment.find(...).populate(...).exec(...).sort is not a function
+    at exports.getComments (comment.controller.js:248:8)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+undefined
+
+undefined
+
+Error: ENOENT: no such file or directory, stat 'C:\Users\jack\Desktop\rmiters\public\uploads\profile\IMG_0900_1457354018875.JPG'
+    at Error (native)
+
+TypeError: Comment.find(...).exec(...).populate is not a function
+    at exports.getComments (comment.controller.js:222:6)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.find(...).exec(...).populate is not a function
+    at exports.getComments (comment.controller.js:222:6)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.find(...).exec(...).populate is not a function
+    at exports.getComments (comment.controller.js:222:6)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+TypeError: Comment.find(...).exec(...).populate is not a function
+    at exports.getComments (comment.controller.js:222:6)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\connection.js:226:15)
+    at Mongoose.connect (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\index.js:229:15)
+    at module.exports (mongoose.js:6:21)
+    at test.routes.js:29:42
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\connection.js:226:15)
+    at Mongoose.connect (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\index.js:229:15)
+    at module.exports (mongoose.js:6:21)
+    at test.routes.js:31:42
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\connection.js:226:15)
+    at Mongoose.connect (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\index.js:229:15)
+    at module.exports (mongoose.js:6:21)
+    at test.routes.js:31:42
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+OverwriteModelError: Cannot overwrite `Club` model once compiled.
+    at Mongoose.model (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\index.js:346:13)
+    at test.routes.js:29:19
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+OverwriteModelError: Cannot overwrite `Club` model once compiled.
+    at Mongoose.model (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\index.js:346:13)
+    at test.routes.js:29:19
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\connection.js:226:15)
+    at Mongoose.connect (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\index.js:229:15)
+    at module.exports (mongoose.js:6:21)
+    at test.routes.js:33:22
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\connection.js:226:15)
+    at Mongoose.connect (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\index.js:229:15)
+    at module.exports (mongoose.js:6:21)
+    at test.routes.js:33:10
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\connection.js:226:15)
+    at Mongoose.connect (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\index.js:229:15)
+    at module.exports (mongoose.js:6:21)
+    at test.routes.js:33:19
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+OverwriteModelError: Cannot overwrite `Club` model once compiled.
+    at Mongoose.model (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\index.js:346:13)
+    at test.routes.js:29:19
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+OverwriteModelError: Cannot overwrite `Club` model once compiled.
+    at Mongoose.model (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\index.js:346:13)
+    at test.routes.js:29:19
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\connection.js:226:15)
+    at Mongoose.connect (C:\Users\jack\Desktop\rmiters\node_modules\mongoose\lib\index.js:229:15)
+    at module.exports (mongoose.js:6:21)
+    at test.routes.js:34:19
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+ReferenceError: Server is not defined
+    at test.routes.js:20:32
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+ReferenceError: Server is not defined
+    at test.routes.js:20:32
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)
+
+ReferenceError: Server is not defined
+    at test.routes.js:20:32
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\Users\jack\Desktop\rmiters\node_modules\express\lib\router\index.js:271:10)
+    at Immediate.<anonymous> (C:\Users\jack\Desktop\rmiters\node_modules\express-session\index.js:437:7)
+    at Immediate.immediate._onImmediate (timers.js:431:18)
+    at processImmediate [as _immediateCallback] (timers.js:374:17)

@@ -1,0 +1,199 @@
+/* comment system prototype json sample
+*  1.first comment will create an object with postID and comments array
+*  2.make an comment object with ID,comment content,parentCommentId (if there is a parent comment),children comment objects  
+*  
+*  when client send comment data to server,
+*  will look up first postId-> if parentCommentId is sent, look for same parentCommentID ,otherwise, make an new object and insert
+* 
+*
+*  when comment is inserted into the array in database , find same parentCommentID object
+*  and get the data and push in it and then save 
+*
+*
+*
+*  when render the comments
+*  get the postID and fetch the comments data  
+*  all comments data will be in some state <-- this state store total comments  
+*  have another state which has 10 or 20 comments will be rendered on the comment component
+*  key value is each comment objs id value
+*  when scorll down , pop new data from the state array and append them on another state and update
+*/
+
+[
+ 
+         {
+            "c_ID":234235345,
+            "comment":"A",
+            "userId":"a23sdfo34sdf",
+            "parentCommentID":null,
+            "childComments":[
+
+                 {
+                   "c_ID":23432335345,
+                   "comment":"B",
+                   "userId":"a23sdfasdasdo34sdf",
+                   "parentCommentID":234235345,
+                   "childComments":[]
+                 },
+                 {
+                   "c_ID":2333656335345,
+                   "comment":"C",
+                   "userId":"a23sdfoasdadsf34sdf",
+                   "parentCommentID":234235345,
+                   "childComments":[
+
+                          {
+                            "c_ID":234323324235345,
+                            "comment":"D",
+                            "userId":"a23sasd234234dfo34sdf",
+                            "parentCommentID":2333656335345,
+                            "childComments":[
+
+                                               {
+                                   "c_ID":2333656234234234234335345,
+                                   "comment":"E",
+                                   "userId":"a23sdfoasdadsf34sdf",
+                                   "parentCommentID":234323324235345,
+                                   "childComments":[
+
+                                          {
+                                            "c_ID":90980956567,
+                                            "comment":"F",
+                                            "userId":"a23sasd234234dfo34sdf",
+                                            "parentCommentID":2333656234234234234335345,
+                                            "childComments":[]
+                                          }
+
+                                   ]
+                 }
+
+
+
+                            ]
+                          }
+
+                   ]
+                 }
+
+               ]
+         },
+                  {
+            "c_ID":234232342345345,
+            "comment":"G",
+            "userId":"a23sdfo34sdf",
+            "parentCommentID":null,
+            "childComments":[
+
+                 {
+                   "c_ID":23432335345,
+                   "comment":"H",
+                   "userId":"a23sdfasdasdo34sdf",
+                   "parentCommentID":234235345,
+                   "childComments":[]
+                 },
+                 {
+                   "c_ID":2333656335345,
+                   "comment":"I",
+                   "userId":"a23sdfoasdadsf34sdf",
+                   "parentCommentID":234235345,
+                   "childComments":[
+
+                          {
+                            "c_ID":234322223324235345,
+                            "comment":"J",
+                            "userId":"a23sasd234234dfo34sdf",
+                            "parentCommentID":2333656335345,
+                            "childComments":[]
+                          }
+
+                   ]
+                 }
+
+               ]
+         },
+                  {
+            "c_ID":234234232453452345,
+            "comment":"K",
+            "userId":"a23sdfo34sdf",
+            "parentCommentID":null,
+            "childComments":[
+
+                 {
+                   "c_ID":23432335345,
+                   "comment":"L",
+                   "userId":"a23sdfasdasdo34sdf",
+                   "parentCommentID":234234232453452345,
+                   "childComments":[]
+                 },
+                 {
+                   "c_ID":2333656121234335345,
+                   "comment":"N",
+                   "userId":"a23sdfoasdadsf34sdf",
+                   "parentCommentID":234234232453452345,
+                   "childComments":[
+
+                          {
+                            "c_ID":234323324235333345,
+                            "comment":"M",
+                            "userId":"a23sasd234234dfo34sdf",
+                            "parentCommentID":2333656121234335345,
+                            "childComments":[]
+                          }
+
+                   ]
+                 }
+
+               ]
+         }
+ 
+
+
+]
+
+
+[
+   {
+      "_id":1,
+      "postID":3,
+      "comments":[
+         {
+            "c_ID":234235345,
+            "comment":"I like it!",
+            "userId":"a23sdfo34sdf",
+            "parentCommentID":null,
+            "childComments":[
+
+                 {
+                   "c_ID":23432335345,
+                   "comment":"I like it too!",
+                   "userId":"a23sdfasdasdo34sdf",
+                   "parentCommentID":234235345,
+                   "childComments":[]
+                 },
+                 {
+                   "c_ID":2333656335345,
+                   "comment":"I dont like it!",
+                   "userId":"a23sdfoasdadsf34sdf",
+                   "parentCommentID":234235345,
+                   "childComments":[
+
+                          {
+                            "c_ID":234323324235345,
+                            "comment":"I like it too!",
+                            "userId":"a23sasd234234dfo34sdf",
+                            "parentCommentID":2333656335345,
+                            "childComments":[]
+                          }
+
+                   ]
+                 }
+
+               ]
+         }
+
+      ]
+   }
+    
+
+
+]

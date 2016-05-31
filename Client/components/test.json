@@ -1,0 +1,49 @@
+/* comment system json sample
+*/
+
+[
+   {
+      "_id":1,
+      "postID":3,
+      "comments":[
+         {
+            "c_ID":234235345,
+            "comment":"I like it!",
+            "userId":"a23sdfo34sdf",
+            "parentCommentID":null,
+            "childComments":[
+
+                 {
+                   "c_ID":23432335345,
+                   "comment":"I like it too!",
+                   "userId":"a23sdfasdasdo34sdf",
+                   "parentCommentID":234235345,
+                   "childComments":[]
+                 },
+                 {
+                   "c_ID":2333656335345,
+                   "comment":"I dont like it!",
+                   "userId":"a23sdfoasdadsf34sdf",
+                   "parentCommentID":234235345,
+                   "childComments":[
+
+                          {
+                            "c_ID":234323324235345,
+                            "comment":"I like it too!",
+                            "userId":"a23sasd234234dfo34sdf",
+                            "parentCommentID":2333656335345,
+                            "childComments":[]
+                          }
+
+                   ]
+                 }
+
+               ]
+         }
+
+      ]
+   }
+    
+
+
+]
